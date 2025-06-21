@@ -1,4 +1,4 @@
-Here’s a professional `README.md` file for your **portfolio website** project that uses **GitHub Actions** for **CI/CD deployment to AWS S3** with **IAM user integration**.
+Here is your updated `README.md` file with the **architecture diagram** added under the introduction section:
 
 ---
 
@@ -6,6 +6,18 @@ Here’s a professional `README.md` file for your **portfolio website** project 
 # 🌐 Portfolio Website
 
 This is a modern, responsive personal portfolio website built using HTML, CSS (or Tailwind), and optionally JavaScript or a frontend framework. It is automatically deployed to **Amazon S3** using **GitHub Actions** for Continuous Integration and Continuous Deployment (CI/CD).
+
+---
+
+## 📊 Architecture Diagram
+
+![AWS Portfolio CI/CD Pipeline](./architecture%20diagram.png)
+
+This diagram illustrates the complete CI/CD workflow:
+- User pushes changes to GitHub
+- GitHub Actions triggers the deployment
+- AWS IAM authenticates the GitHub runner
+- Files are deployed to an S3 bucket for static website hosting
 
 ---
 
@@ -166,5 +178,12 @@ Rohit Tambe
 
 ```
 
-Let me know if you'd like this tailored for a framework like React, Vue, or Astro — or if you want a badge, custom domain, or analytics setup added.
+---
+
+✅ **Instructions to make it work on GitHub:**
+- Rename your image to: `architecture diagram.png`
+- Place it in the **root** directory of your repo
+- Commit both the `README.md` and the image
+
+Let me know if you'd like a markdown badge, website preview link, or Netlify comparison section!
 ```
