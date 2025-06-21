@@ -11,7 +11,7 @@ This is a modern, responsive personal portfolio website built using HTML, CSS (o
 
 ## 📊 Architecture Diagram
 
-![AWS Portfolio CI/CD Pipeline]("C:\Users\lefts\OneDrive\Desktop\AWS-Portfolio-cicd-main\AWS-Portfolio-cicd-main\architecture diagram.png")
+![AWS Portfolio CI/CD Pipeline](./architecture%20diagram.png)
 
 This diagram illustrates the complete CI/CD workflow:
 - User pushes changes to GitHub
@@ -171,19 +171,3 @@ This project is open-source and free to use for personal or educational purposes
 
 ---
 
-## 🙋‍♂️ Author
-
-Rohit Tambe
-\[Your LinkedIn/GitHub link here]
-
-```
-
----
-
-✅ **Instructions to make it work on GitHub:**
-- Rename your image to: `architecture diagram.png`
-- Place it in the **root** directory of your repo
-- Commit both the `README.md` and the image
-
-Let me know if you'd like a markdown badge, website preview link, or Netlify comparison section!
-```
