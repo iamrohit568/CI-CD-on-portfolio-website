@@ -13,6 +13,7 @@ This is a modern, responsive personal portfolio website built using HTML, CSS (o
 
 ![AWS Portfolio CI/CD Pipeline](./architecture%20diagram.png)
 
+
 This diagram illustrates the complete CI/CD workflow:
 - User pushes changes to GitHub
 - GitHub Actions triggers the deployment
